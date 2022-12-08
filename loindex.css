@@ -1,4 +1,4 @@
-img{
+.img1{
     border: 8px solid black;
     border-radius: 25px;
 }
@@ -13,4 +13,12 @@ img{
     border-radius: 25px;
     height: 200px;
     width: 200px;
+}
+.img4{
+    border:3px solid black;
+    border-radius: 25px;
+}
+.img5{
+    border:3px solid black;
+    border-radius: 25px;
 }
