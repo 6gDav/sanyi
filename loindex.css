@@ -5,4 +5,12 @@ img{
 .img2{
     border:3px solid rgb(192, 23, 23);
     border-radius: 25px;
+    height: 200px;
+    width: 200px;
+}
+.img4{
+    border:3px solid black;
+    border-radius: 25px;
+    height: 200px;
+    width: 200px;
 }
